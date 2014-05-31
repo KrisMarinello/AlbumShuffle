@@ -1,4 +1,6 @@
 AlbumShuffle
+Kris Marinello 
+kris.marinello@gmail.com
 ============
 Creates a shuffled by album Spotify encoded playlist
 
